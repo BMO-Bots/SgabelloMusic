@@ -1,0 +1,11 @@
+{
+    "lyrics_ok": ".lyrics__content__ok",
+    "lyrics_error": ".lyrics__content__error",
+    "icon": ".banner-album-image-desktop > img",
+    "name": ".mxm-track-title__track",
+    "artist_1": ".mxm-track-title > h2 > span > span",
+    "artist_2": ".mxm-track-title > h2 > span",
+    "s_title": ".title",
+    "s_artist": ".artist",
+    "s_icon": ".media-card-picture > img"
+}
