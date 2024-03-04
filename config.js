@@ -22,9 +22,9 @@ module.exports = {
 	nodes: [
 		{
 			identifier: "Main Node",
-			host: "localnet-id.ajiehost.rf.gd",
-			port: 540,
-			password: "https://dsc.gg/ajidevserver",
+			host: "lavalink3.alfari.id",
+			port: 80,
+			password: "catfein",
 			retryAmount: 200,
 			retryDelay: 40,
 			secure: false,
