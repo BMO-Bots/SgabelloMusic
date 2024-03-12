@@ -22,12 +22,12 @@ module.exports = {
 	nodes: [
 		{
 			identifier: "Main Node",
-			host: "lavalink.oddcoder.xyz",
-			port: 443,
-			password: "oddcoder",
+			host: "lavalink.lexnet.cc",
+			port: 2333,
+			password: "lexn3tl@val!nk",
 			retryAmount: 200,
 			retryDelay: 40,
-			secure: true,
+			secure: false,
 		},
 	],
 	embedColor: "#ce965d",
