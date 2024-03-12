@@ -22,7 +22,7 @@ module.exports = {
 	nodes: [
 		{
 			identifier: "Main Node",
-			host: "lavalink4-frankfurt.alfari.id",
+			host: "lavalink3-frankfurt.alfari.id",
 			port: 80,
 			password: "catfein",
 			retryAmount: 200,
