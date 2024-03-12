@@ -22,9 +22,9 @@ module.exports = {
 	nodes: [
 		{
 			identifier: "Main Node",
-			host: "lavalink3-frankfurt.alfari.id",
-			port: 80,
-			password: "catfein",
+			host: "us1.lavalink.creavite.co",
+			port: 20080,
+			password: "auto.creavite.co",
 			retryAmount: 200,
 			retryDelay: 40,
 			secure: false,
