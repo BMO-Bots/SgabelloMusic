@@ -22,12 +22,12 @@ module.exports = {
 	nodes: [
 		{
 			identifier: "Main Node",
-			host: "us1.lavalink.creavite.co",
-			port: 20080,
-			password: "auto.creavite.co",
+			host: "lavalink.oddcoder.xyz",
+			port: 443,
+			password: "oddcoder",
 			retryAmount: 200,
 			retryDelay: 40,
-			secure: false,
+			secure: true,
 		},
 	],
 	embedColor: "#ce965d",
