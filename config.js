@@ -21,9 +21,9 @@ module.exports = {
   website: "https://sgabello.jesgran.repl.co",
   nodes: [
    {
-  "identifier": "Lexnet.cc - NA",
+  "identifier": "Lexnet.cc - EU",
   "password": "lexn3tl@val!nk",
-  "host": "lavalink.lexnet.cc",
+  "host": "eu-lavalink.lexnet.cc",
   "port": 2333,
   "secure": false
 },
