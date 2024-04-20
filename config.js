@@ -20,7 +20,13 @@ module.exports = {
   cookieSecret: "biscotto",
   website: "https://sgabello.jesgran.repl.co",
   nodes: [
-    { "identifier": "INZEWORLD-NODE (RU)", "password": "saher.inzeworld.com", "host": "85.88.163.80", "port": 3128, "secure": false },
+    {
+  "identifier": "Creavite US1 Lavalink",
+  "password": "auto.creavite.co",
+  "host": "us1.lavalink.creavite.co",
+  "port": 20080,
+  "secure": false
+},
   ],
   embedColor: "#ce965d",
   presence: {
