@@ -21,11 +21,11 @@ module.exports = {
   website: "https://sgabello.jesgran.repl.co",
   nodes: [
    {
-  "identifier": "Akshtt - v4 Free",
-  "password": "admin",
-  "host": "lava.akshat.tech",
-  "port": 443,
-  "secure": true
+  "identifier": "Lexnet.cc - NA",
+  "password": "lexn3tl@val!nk",
+  "host": "lavalink.lexnet.cc",
+  "port": 2333,
+  "secure": false
 },
   ],
   embedColor: "#ce965d",
