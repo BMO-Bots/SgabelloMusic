@@ -20,15 +20,7 @@ module.exports = {
   cookieSecret: "biscotto",
   website: "https://sgabello.jesgran.repl.co",
   nodes: [
-    {
-      identifier: "Main Node",
-      host: "lavalink.devamop.in",
-      port: 80,
-      password: "DevamOP",
-      retryAmount: 200,
-      retryDelay: 40,
-      secure: false,
-    },
+    { "identifier": "INZEWORLD-NODE (RU)", "password": "saher.inzeworld.com", "host": "85.88.163.80", "port": 3128, "secure": false },
   ],
   embedColor: "#ce965d",
   presence: {
