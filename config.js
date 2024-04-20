@@ -21,10 +21,10 @@ module.exports = {
   website: "https://sgabello.jesgran.repl.co",
   nodes: [
     {
-  "identifier": "Creavite US1 Lavalink",
-  "password": "auto.creavite.co",
-  "host": "us1.lavalink.creavite.co",
-  "port": 20080,
+  "identifier": "RudraCloud",
+  "password": "RudraCloud.com",
+  "host": "lavalink.rudracloud.com",
+  "port": 2333,
   "secure": false
 },
   ],
