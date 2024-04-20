@@ -21,31 +21,33 @@ module.exports = {
   website: "https://sgabello.jesgran.repl.co",
   nodes: [
 {
-  "identifier": "INZEWORLD-NODE (RU)",
-  "password": "saher.inzeworld.com",
-  "host": "85.88.163.80",
-  "port": 3128,
+  "identifier": "DevamOP",
+  "password": "DevamOP",
+  "host": "lavalink.devamop.in",
+  "port": 80,
   "secure": false
 },
 {
-  "identifier": "AjieDev - Lavalink [SSL | UK]",
+  "identifier": "akie",
   "password": "https://dsc.gg/ajidevserver",
   "host": "lava-v3.ajieblogs.eu.org",
-  "port": 443,
-  "secure": true
-},
-   {
-  "identifier": "Lexnet.cc - EU",
-  "password": "lexn3tl@val!nk",
-  "host": "eu-lavalink.lexnet.cc",
-  "port": 2333,
+  "port": 80,
   "secure": false
 },
+
 {
-  "identifier": "Lexnet.cc - NA",
-  "password": "lexn3tl@val!nk",
-  "host": "lavalink.lexnet.cc",
-  "port": 2333,
+  "identifier": "timeless",
+  "password": "youshallnotpass",
+  "host": "lavalink.api.timelessnesses.me",
+  "port": 80,
+  "secure": false
+},
+
+{
+  "identifier": "delusion",
+  "password": "discord.gg/FqEQtEtUc9",
+  "host": "lavalink.ddns.net",
+  "port": 2433,
   "secure": false
 },
   ],
