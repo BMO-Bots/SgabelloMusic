@@ -20,10 +20,31 @@ module.exports = {
   cookieSecret: "biscotto",
   website: "https://sgabello.jesgran.repl.co",
   nodes: [
+{
+  "identifier": "INZEWORLD-NODE (RU)",
+  "password": "saher.inzeworld.com",
+  "host": "85.88.163.80",
+  "port": 3128,
+  "secure": false
+},
+{
+  "identifier": "AjieDev - Lavalink [SSL | UK]",
+  "password": "https://dsc.gg/ajidevserver",
+  "host": "lava-v3.ajieblogs.eu.org",
+  "port": 443,
+  "secure": true
+},
    {
   "identifier": "Lexnet.cc - EU",
   "password": "lexn3tl@val!nk",
   "host": "eu-lavalink.lexnet.cc",
+  "port": 2333,
+  "secure": false
+},
+{
+  "identifier": "Lexnet.cc - NA",
+  "password": "lexn3tl@val!nk",
+  "host": "lavalink.lexnet.cc",
   "port": 2333,
   "secure": false
 },
