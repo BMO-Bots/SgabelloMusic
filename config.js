@@ -20,12 +20,12 @@ module.exports = {
   cookieSecret: "biscotto",
   website: "https://sgabello.jesgran.repl.co",
   nodes: [
-    {
-  "identifier": "RudraCloud",
-  "password": "RudraCloud.com",
-  "host": "lavalink.rudracloud.com",
-  "port": 2333,
-  "secure": false
+   {
+  "identifier": "Akshtt - v4 Free",
+  "password": "admin",
+  "host": "lava.akshat.tech",
+  "port": 443,
+  "secure": true
 },
   ],
   embedColor: "#ce965d",
